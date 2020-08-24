@@ -4,7 +4,6 @@ Test automation whit screenplay
 Project description.
 
 Searching a book and its author in addition to visiting their website.
-Manual test cases at the root of the project. manualtestcases.txt
 
 Requirements to run the automation.
 
